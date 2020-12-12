@@ -135,6 +135,6 @@ def main(user,pwd):
 # 执行指令
 if __name__ == '__main__':
     print_me()
-    user = "*******"
-    pwd = "****"
+    user = "*******"    # 此处为用户名
+    pwd = "****"        # 此处为密码
     main(user,pwd)
